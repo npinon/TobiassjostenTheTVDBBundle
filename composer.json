@@ -1,5 +1,5 @@
 {
-    "name": "tobiassjosten/thetvdb-bundle",
+    "name": "npinon/thetvdb-bundle",
     "type": "symfony-bundle",
     "description": "Symfony2 bundle for the TheTVDB.com API library",
     "keywords": [ "thetvdb.com" ],
@@ -20,7 +20,7 @@
         "php": ">=5.3.2",
         "symfony/framework-bundle": "~2.2",
         "symfony/console": "~2.2",
-        "fpn/thetvdb": "dev-master"
+        "npinon/thetvdb": "dev-master"
     },
     "require-dev": {
         "symfony/class-loader": "~2.2",
