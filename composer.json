@@ -12,21 +12,6 @@
             "homepage": "http://vvv.tobiassjosten.net/"
         }
     ],
-    "repositories": [{
-        "type": "vcs",
-        "url": "https://github.com/npinon/php-thetvdb-api"
-    }],
-    "require" : {
-        "php": ">=5.3.2",
-        "symfony/framework-bundle": "~2.2",
-        "symfony/console": "~2.2",
-        "npinon/thetvdb": "dev-master"
-    },
-    "require-dev": {
-        "symfony/class-loader": "~2.2",
-        "symfony/finder": "~2.2",
-        "symfony/yaml": "~2.2"
-    },
     "minimum-stability": "alpha",
     "autoload" : {
         "psr-0" : { "Tobiassjosten\\TheTVDBBundle": "" }
